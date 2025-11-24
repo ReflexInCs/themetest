@@ -6,7 +6,7 @@
   "version": "1",
   "authors": [
     {
-      "name": "YourName",
+      "name": "Reflex",
       "id": "000000000000000000"
     }
   ],
@@ -126,22 +126,22 @@
       "#1a3a52"
     ],
     "HEADER_PRIMARY": [
-      "#e3f2fd"
+      "#ffffff"
     ],
     "HEADER_SECONDARY": [
-      "#90caf9"
+      "#b3e5fc"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#e3f2fd"
+      "#ffffff"
     ],
     "INTERACTIVE_HOVER": [
-      "#e3f2fd"
+      "#ffffff"
     ],
     "INTERACTIVE_MUTED": [
-      "#e3f2fd66"
+      "#b3e5fc99"
     ],
     "INTERACTIVE_NORMAL": [
-      "#7a9ab8"
+      "#b3e5fc"
     ],
     "MENTION_BACKGROUND": [
       "#4fc3f733"
@@ -195,16 +195,16 @@
       "#4fc3f7"
     ],
     "TEXT_MUTED": [
-      "#e3f2fd66"
+      "#b3e5fc99"
     ],
     "TEXT_NORMAL": [
-      "#e3f2fd"
+      "#ffffff"
     ],
     "TEXT_PRIMARY": [
-      "#bbdefb"
+      "#ffffff"
     ],
     "TEXT_SECONDARY": [
-      "#90caf9"
+      "#b3e5fc"
     ],
     "BG_MOD_FAINT": [
       "hsla(210, 50%, 30%, 0.1)"
